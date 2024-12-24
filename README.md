@@ -9,6 +9,11 @@
 
 Project ini adalah project untuk UAS basis data
 
+## Documentation
+
+[![Static Badge](https://img.shields.io/badge/View_Document-1298ff)](<./Dokumen/Dokumen Awal.pdf>) 
+
+
 
 ## Team
 - **Programmer**: [TakeruPutraNojima](https://github.com/TakeruNojima)  
