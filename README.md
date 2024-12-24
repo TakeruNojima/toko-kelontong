@@ -9,11 +9,6 @@
 
 Project ini adalah project untuk UAS basis data
 
-## Documentation
-
-[![Static Badge](https://img.shields.io/badge/View_Document-1298ff)](https://github.com/TakeruNojima/toko-kelontong/blob/main/Dokumentasi_Awal_Proyek_Pengembangan_Basis_Data.docx%20(1).pdf) 
-
-
 
 ## Team
 - **Programmer**: [TakeruPutraNojima](https://github.com/TakeruNojima)  
