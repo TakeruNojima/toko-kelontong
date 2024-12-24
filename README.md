@@ -9,6 +9,14 @@
 
 Project ini adalah project untuk UAS basis data
 
+##Documentation
+
+
+##Team
+
+-[TakeruPutraNojima](https://github.com/TakeruNojima)
+-
+
 
 [![Latest Stable Version](https://img.shields.io/packagist/v/yiisoft/yii2-app-basic.svg)](https://packagist.org/packages/yiisoft/yii2-app-basic)
 [![Total Downloads](https://img.shields.io/packagist/dt/yiisoft/yii2-app-basic.svg)](https://packagist.org/packages/yiisoft/yii2-app-basic)
