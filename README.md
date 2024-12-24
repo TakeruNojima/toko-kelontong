@@ -9,13 +9,11 @@
 
 Project ini adalah project untuk UAS basis data
 
-##Documentation
 
-
-##Team
-
--[TakeruPutraNojima](https://github.com/TakeruNojima)
--
+## Team
+- **Programmer**: [TakeruPutraNojima](https://github.com/TakeruNojima)  
+- **Master Database**: [Dila Alif Regita](https://github.com/dilaal)  
+- **Replica**: [Julyo Firnanda](https://github.com/Anonimhacker)
 
 
 [![Latest Stable Version](https://img.shields.io/packagist/v/yiisoft/yii2-app-basic.svg)](https://packagist.org/packages/yiisoft/yii2-app-basic)
